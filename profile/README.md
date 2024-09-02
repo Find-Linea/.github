@@ -96,6 +96,8 @@ Main Contract - [https://sepolia.lineascan.build/address/0x9ac0cd29b24dfe01eb1bb
 
 tCROAK - [https://sepolia.lineascan.build/address/0xcb77fee35f56d7cee520148afb6430aa8d6d0b6e]( https://sepolia.lineascan.build/address/0xcb77fee35f56d7cee520148afb6430aa8d6d0b6e)
 
+mEFROG Collection - [https://sepolia.lineascan.build/token/0x486b8b58876174bf360d9ed39a1b1309dcb9af8a](https://sepolia.lineascan.build/token/0x486b8b58876174bf360d9ed39a1b1309dcb9af8a)
+
 ---
 
 ## Acknowledgements and Credits
