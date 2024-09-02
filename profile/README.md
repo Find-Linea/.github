@@ -46,7 +46,7 @@ In Find Linea The Frog, the primary objective is to locate and capture all hidde
 ### Objectives:
 - Primary: Capture all hidden frogs in each level.
 - Secondary: Earn and manage Croak to unlock additional features and rewards.
-- Bonus: Discover and capture a special hidden frog to unlock a unique NFT.
+- Bonus: Discover and capture a special hidden frog to unlock a unique EFROG NFT.
 
 ### Game Mechanics:
 - Left Click to Catch: Click on a frog to capture it once found.
