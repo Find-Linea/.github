@@ -79,9 +79,15 @@ The game begins with simpler levels to introduce the basic mechanics. As players
 ---
 
 ## How does it work
-- EFROGS: Users receive an EFROG NFT once they catch a rare frog across different levels. Users can also earn it through the Spinning Wheel.
-- $CROAK: We deployed our own token on Linea Sepolia Network called tCROAK, which demonstrate how $CROAK can be used on the mainnet. The token supply is set to 2_015_000_000. It serves as the in-game currency. Users can use it for Spinning the wheel for 20 tCROAKS and earn 20 by completing the levels.
-- Value to the consumers: The game is challenging and the aesthetic UI makes it very relaxing for the users. The game also aims to promote $CROAK usage.
+
+### EFROGS:
+- Users receive an EFROG NFT once they catch a rare frog across different levels. Users can also earn it through the Spinning Wheel.
+
+### $CROAK:
+- We deployed our own token on Linea Sepolia Network called tCROAK, which demonstrates how $CROAK can be used on the mainnet. The token supply is set to 2_015_000_000. It serves as the in-game currency. Users can use it for Spinning the wheel for 20 tCROAKS and earn 20 by completing the levels.
+
+### Value to the consumers
+- The game is challenging and the aesthetic UI makes it very relaxing for the users. The game also aims to promote $CROAK usage in the Linea gaming ecosystem.
 
 ---
 
