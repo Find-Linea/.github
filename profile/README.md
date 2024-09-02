@@ -87,6 +87,7 @@ The game begins with simpler levels to introduce the basic mechanics. As players
 
 ### Deployments
 Main Contract - [https://sepolia.lineascan.build/address/0x9ac0cd29b24dfe01eb1bb271bbab36c20d1fc51a]( https://sepolia.lineascan.build/address/0x9ac0cd29b24dfe01eb1bb271bbab36c20d1fc51a)
+
 tCROAK - [https://sepolia.lineascan.build/address/0xcb77fee35f56d7cee520148afb6430aa8d6d0b6e]( https://sepolia.lineascan.build/address/0xcb77fee35f56d7cee520148afb6430aa8d6d0b6e)
 
 ---
