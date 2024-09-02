@@ -74,7 +74,7 @@ The game begins with simpler levels to introduce the basic mechanics. As players
 
 ### Performance Optimization:
 - The game is optimized for smooth performance across various hardware configurations. 
-- Shaders are designed to be efficient, ensuring minimal impact on game performance.
+- Godot Shaders are designed to be efficient, ensuring minimal impact on game performance.
 
 ---
 
