@@ -1,7 +1,7 @@
 # Find Linea The Frog
 An intricately designed on-chain game where players embark on a captivating quest to find and capture elusive frogs across challenging levels.
 
-Try now - [Find Linea](https://master--findlinea.netlify.app/)
+Try now - [Find Linea](https://master--findlinea.netlify.app/)  
 Watch Tutorial - [See how it works](https://youtu.be/mKMmVJAoZM4?si=Bg9FVO9FKr7tDgm3)
 
 ## Table of Contents
