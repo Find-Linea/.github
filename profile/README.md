@@ -131,4 +131,4 @@ https://limezu.itch.io/modernexteriors
 ## Support and Contact
 
 For support, questions, or feedback, please reach out via:
-- Email: adityanandatwork276@gmail.com, parth.eng1210@gmail.com, rakshabv.work@gmail.com
+- Email: adityaanandatwork276@gmail.com, parth.eng1210@gmail.com, rakshabv.work@gmail.com
