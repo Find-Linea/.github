@@ -13,7 +13,11 @@ Try now - [Find Linea](https://master--findlinea.netlify.app/)
 
 ---
 
+
 ## Introduction
+
+![home](https://rose-melodic-felidae-510.mypinata.cloud/ipfs/QmeRxTECwT9hZC2yhJT4XJPdbfUizLHBFw9maHsT8Ka23w/Screenshot%20from%202024-09-02%2019-07-29.png)
+
 Find Linea The Frog combines the thrill of challenging gameplay with a soothing, nature-inspired ambiance. Players traverse diverse levels, each meticulously crafted with hidden frogs that must be located and captured to progress. The game offers a perfect blend of challenge and relaxation, brought to life through attention to detail in design, sound, and visual effects.
 
 Built on the Linea Blockchain, the game introduces Croak as the in-game currency, enhancing the player's experience with blockchain integration.
@@ -83,12 +87,21 @@ The game begins with simpler levels to introduce the basic mechanics. As players
 ## How does it work
 
 ### EFROGS:
+
+![efrogs](https://rose-melodic-felidae-510.mypinata.cloud/ipfs/QmeRxTECwT9hZC2yhJT4XJPdbfUizLHBFw9maHsT8Ka23w/Screenshot%20from%202024-09-02%2019-07-41.png)
+
 - Users receive an EFROG NFT once they catch a rare frog across different levels. Users can also earn it through the Spinning Wheel.
 
 ### $CROAK:
+
+![croak](https://rose-melodic-felidae-510.mypinata.cloud/ipfs/QmeRxTECwT9hZC2yhJT4XJPdbfUizLHBFw9maHsT8Ka23w/Screenshot%20from%202024-09-02%2019-07-53.png)
+
 - We deployed our own token on Linea Sepolia Network called tCROAK, which demonstrates how $CROAK can be used on the mainnet. The token supply is set to 2_015_000_000. It serves as the in-game currency. Users can use it for Spinning the wheel for 20 tCROAKS and earn 20 by completing the levels.
 
 ### Value to the consumers
+
+![ui](https://rose-melodic-felidae-510.mypinata.cloud/ipfs/QmeRxTECwT9hZC2yhJT4XJPdbfUizLHBFw9maHsT8Ka23w/Screenshot%20from%202024-09-02%2019-09-10.png)
+
 - The game is challenging and the aesthetic UI makes it very relaxing for the users. The game also aims to promote $CROAK usage in the Linea gaming ecosystem.
 
 ---
